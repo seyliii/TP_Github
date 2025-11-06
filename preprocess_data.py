@@ -6,4 +6,4 @@ def preprocess_data(data, testSize):
     train, test = train_test_split(data, test_size = testSize)
     return train, test
 
-
+#Modification du fichier
